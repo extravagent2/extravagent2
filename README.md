@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @extravagent2
+- 👋 Hi, I’m Sree Laya
 - 👀 I’m interested in coding, exploring new things.
 - 🌱 I’m currently learning python,SQL.
 - 💞️ I’m looking to collaborate on new small projects.
-- 📫 How to reach me extravagent234@gmail.com
+- 📫 How to reach me sreelasya215@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
