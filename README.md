@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sree Laya
+- 👋 Hi, I’m Sree Lasya
 - 👀 I’m interested in coding, exploring new things.
 - 🌱 I’m currently learning python,SQL.
 - 💞️ I’m looking to collaborate on new small projects.
